@@ -1,0 +1,1033 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="31b30399-4f4a-4ab5-bbb7-59e8b787f43f" name="默认更改列表" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/ApiTest$tests.coverage" NAME="tests Coverage Results" MODIFIED="1595318053518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MyApp" />
+    <SUITE FILE_PATH="coverage/ApiTest$test.coverage" NAME="test Coverage Results" MODIFIED="1599616371336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MyApp" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MyApp/templates/P_apis.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="453">
+              <caret line="605" column="67" lean-forward="true" selection-start-line="605" selection-start-column="67" selection-end-line="605" selection-end-column="67" />
+              <folding>
+                <element signature="n#head#0;n#html#0;n#!!top" />
+                <element signature="n#style#0;n#head#0;n#html#0;n#!!top" />
+                <element signature="n#nav#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#1;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#ul#0;n#div#1;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#table#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#thead#0;n#table#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#tr#0;n#thead#0;n#table#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#for#0;n#!!top" />
+                <element signature="n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#td#3;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#td#3;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="e#2636#2645#0#DjangoTemplate" />
+                <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#script#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="e#3162#3303#0#HTML" />
+                <element signature="e#3191#3230#0#HTML" />
+                <element signature="e#3246#3296#0#HTML" />
+                <element signature="e#3331#3688#0#HTML" />
+                <element signature="e#3432#3467#0#HTML" />
+                <element signature="e#3483#3681#0#HTML" />
+                <element signature="e#3712#4027#0#HTML" />
+                <element signature="e#3858#3928#0#HTML" />
+                <element signature="e#3944#4020#0#HTML" />
+                <element signature="e#4052#4119#0#HTML" />
+                <element signature="e#4134#4143#0#DjangoTemplate" />
+                <element signature="n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#h4#0;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#ul#0;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#li#0;n#ul#0;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#select#0;n#li#0;n#ul#0;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#li#1;n#ul#0;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#li#2;n#ul#0;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#button#0;n#li#2;n#ul#0;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#ul#1;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#li#0;n#ul#1;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#li#1;n#ul#1;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#button#0;n#li#1;n#ul#1;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#ul#2;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#li#0;n#ul#2;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#input#0;n#li#0;n#ul#2;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#li#1;n#ul#2;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#button#0;n#li#1;n#ul#2;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#ul#3;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#li#3;n#ul#3;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#ul#0;n#li#3;n#ul#3;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#1;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#div#1;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#table#0;n#div#0;n#div#1;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#thead#0;n#table#0;n#div#0;n#div#1;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#1;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#tbody#0;n#table#0;n#div#0;n#div#1;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#1;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#2;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#div#2;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#table#0;n#div#0;n#div#2;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#thead#0;n#table#0;n#div#0;n#div#2;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#2;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#tbody#0;n#table#0;n#div#0;n#div#2;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#2;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#3;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#4;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#5;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#6;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#7;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#8;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#script#1;n#body#0;n#html#0;n#!!top" />
+                <element signature="e#11327#12649#0#HTML" />
+                <element signature="e#12492#12546#0#HTML" />
+                <element signature="e#12586#12641#0#HTML" />
+                <element signature="e#12680#16097#0#HTML" />
+                <element signature="e#13094#13130#0#HTML" />
+                <element signature="e#13146#16090#0#HTML" />
+                <element signature="e#13743#13832#0#HTML" />
+                <element signature="e#13880#13975#0#HTML" />
+                <element signature="e#14017#14106#0#HTML" />
+                <element signature="e#14148#14237#0#HTML" />
+                <element signature="e#14278#14366#0#HTML" />
+                <element signature="e#14413#15216#0#HTML" />
+                <element signature="e#14608#15202#0#HTML" />
+                <element signature="e#14784#14806#0#HTML" />
+                <element signature="e#14997#15010#0#HTML" />
+                <element signature="e#15098#15184#0#HTML" />
+                <element signature="e#15275#16080#0#HTML" />
+                <element signature="e#15471#16066#0#HTML" />
+                <element signature="e#15647#15669#0#HTML" />
+                <element signature="e#15860#15873#0#HTML" />
+                <element signature="e#15961#16048#0#HTML" />
+                <element signature="e#16122#16165#0#HTML" />
+                <element signature="e#16189#19621#0#HTML" />
+                <element signature="e#16890#16956#0#HTML" />
+                <element signature="e#16984#17159#0#HTML" />
+                <element signature="e#17002#17055#0#HTML" />
+                <element signature="e#17065#17149#0#HTML" />
+                <element signature="e#17273#17317#0#HTML" />
+                <element signature="e#17359#17919#0#HTML" />
+                <element signature="e#17595#17854#0#HTML" />
+                <element signature="e#17973#18534#0#HTML" />
+                <element signature="e#18210#18469#0#HTML" />
+                <element signature="e#18571#18655#0#HTML" />
+                <element signature="e#18698#18788#0#HTML" />
+                <element signature="e#18825#18910#0#HTML" />
+                <element signature="e#18947#19032#0#HTML" />
+                <element signature="e#19068#19151#0#HTML" />
+                <element signature="e#19261#19547#0#HTML" />
+                <element signature="e#19563#19614#0#HTML" />
+                <element signature="e#19645#23149#0#HTML" />
+                <element signature="e#20294#20360#0#HTML" />
+                <element signature="e#20388#20563#0#HTML" />
+                <element signature="e#20406#20459#0#HTML" />
+                <element signature="e#20469#20553#0#HTML" />
+                <element signature="e#20677#20721#0#HTML" />
+                <element signature="e#20763#21323#0#HTML" />
+                <element signature="e#20999#21258#0#HTML" />
+                <element signature="e#21377#21938#0#HTML" />
+                <element signature="e#21614#21873#0#HTML" />
+                <element signature="e#21975#22059#0#HTML" />
+                <element signature="e#22102#22192#0#HTML" />
+                <element signature="e#22229#22313#0#HTML" />
+                <element signature="e#22350#22434#0#HTML" />
+                <element signature="e#22470#22553#0#HTML" />
+                <element signature="e#22624#22634#0#HTML" />
+                <element signature="e#22682#22968#0#HTML" />
+                <element signature="e#22984#23142#0#HTML" />
+                <element signature="e#23163#23170#0#DjangoTemplate" />
+                <element signature="n#div#3;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#input#0;n#div#3;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#textarea#0;n#div#3;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#style#0;n#input#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#24136#24849#0#HTML" />
+                <element signature="e#24416#25044#0#HTML" />
+                <element signature="e#24488#24937#0#HTML" />
+                <element signature="e#24570#24923#0#HTML" />
+                <element signature="e#24646#24905#0#HTML" />
+                <element signature="e#24941#25034#0#HTML" />
+                <element signature="e#25054#25362#0#HTML" />
+                <element signature="e#25114#25246#0#HTML" />
+                <element signature="e#25297#25337#0#HTML" />
+                <element signature="e#25346#25394#0#HTML" />
+                <element signature="e#25256#25352#0#HTML" />
+                <element signature="e#25399#25441#0#HTML" />
+                <element signature="e#25469#26241#0#HTML" />
+                <element signature="n#div#4;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#script#3;n#body#0;n#html#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>templates</find>
+      <find>dark-lesb</find>
+      <find>red</find>
+      <find>navbar</find>
+      <find>color</find>
+      <find>0.9</find>
+      <find>zhuce</find>
+      <find>csrf</find>
+      <find>恶</find>
+      <find>FK</find>
+      <find>FD</find>
+      <find>docu</find>
+      <find>显示</find>
+      <find>备注</find>
+      <find>orwEdit</find>
+      <find>rowEdit</find>
+      <find>None</find>
+      <find>隐藏</find>
+      <find>json</find>
+      <find>ddButton: $('#add'</find>
+      <find>Send</find>
+      <find>取消</find>
+      <find>新增</find>
+      <find>save</find>
+      <find>异常</find>
+      <find>0.</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../Imxiaozhu" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/MyApp/static/201908059658/index.html" />
+        <option value="$PROJECT_DIR$/MyApp/static/201908059658/css/htmleaf-demo.css" />
+        <option value="$PROJECT_DIR$/MyApp/static/201908059658/css/normalize.css" />
+        <option value="$PROJECT_DIR$/MyApp/static/201908059658/src/jquery-rvnm.css" />
+        <option value="$PROJECT_DIR$/MyApp/templates/login.html" />
+        <option value="$PROJECT_DIR$/MyApp/templates/help.html" />
+        <option value="$PROJECT_DIR$/MyApp/templates/home.html" />
+        <option value="$PROJECT_DIR$/ApiTest/settings.py" />
+        <option value="$PROJECT_DIR$/MyApp/templates/apis.html" />
+        <option value="$PROJECT_DIR$/MyApp/templates/P_cases.html" />
+        <option value="$PROJECT_DIR$/MyApp/templates/P_project_set.html" />
+        <option value="$PROJECT_DIR$/MyApp/admin.py" />
+        <option value="$PROJECT_DIR$/MyApp/static/201801271505/index.html" />
+        <option value="$PROJECT_DIR$/MyApp/static/201801271505/js/bootstable.js" />
+        <option value="$PROJECT_DIR$/MyApp/templates/welcome.html" />
+        <option value="$PROJECT_DIR$/MyApp/tests.py" />
+        <option value="$PROJECT_DIR$/MyApp/test.py" />
+        <option value="$PROJECT_DIR$/MyApp/templates/project_list.html" />
+        <option value="$PROJECT_DIR$/ApiTest/urls.py" />
+        <option value="$PROJECT_DIR$/MyApp/models.py" />
+        <option value="$PROJECT_DIR$/MyApp/views.py" />
+        <option value="$PROJECT_DIR$/MyApp/templates/P_apis.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <bower-package value="" />
+    <bower.json value="" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1383" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ApiTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ApiTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ApiTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ApiTest" type="462c0819:PsiDirectoryNode" />
+              <item name="ApiTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ApiTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ApiTest" type="462c0819:PsiDirectoryNode" />
+              <item name="MyApp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ApiTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ApiTest" type="462c0819:PsiDirectoryNode" />
+              <item name="MyApp" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.CommitDialog" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/MyApp/static" />
+      <recent name="$PROJECT_DIR$/MyApp/templates" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/MyApp" />
+      <recent name="$PROJECT_DIR$/MyApp/templates" />
+      <recent name="$PROJECT_DIR$/MyApp/static" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Django server.ApiTest">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ApiTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MyApp" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MyApp/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tests" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ApiTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MyApp" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MyApp/tests.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ApiTest" type="Python.DjangoServer" factoryName="Django server">
+      <module name="ApiTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="ApiTest.settings" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="0.0.0.0:8000" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.tests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="31b30399-4f4a-4ab5-bbb7-59e8b787f43f" name="默认更改列表" comment="" />
+      <created>1593428350795</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593428350795</updated>
+      <workItem from="1593428353325" duration="746000" />
+      <workItem from="1593565370198" duration="2111000" />
+      <workItem from="1593737773815" duration="3249000" />
+      <workItem from="1594100938026" duration="3373000" />
+      <workItem from="1594105005758" duration="495000" />
+      <workItem from="1594174321404" duration="90000" />
+      <workItem from="1594174917585" duration="4046000" />
+      <workItem from="1594286186558" duration="3338000" />
+      <workItem from="1594345081851" duration="3140000" />
+      <workItem from="1594445706644" duration="308000" />
+      <workItem from="1594619208939" duration="4401000" />
+      <workItem from="1594688876225" duration="4479000" />
+      <workItem from="1594775618018" duration="4658000" />
+      <workItem from="1594947611072" duration="793000" />
+      <workItem from="1594949011471" duration="2920000" />
+      <workItem from="1594971123014" duration="4000" />
+      <workItem from="1594982509778" duration="2118000" />
+      <workItem from="1595224983160" duration="7605000" />
+      <workItem from="1595293552447" duration="4606000" />
+      <workItem from="1595302291261" duration="3894000" />
+      <workItem from="1595316455124" duration="111000" />
+      <workItem from="1595317670919" duration="680000" />
+      <workItem from="1595409536201" duration="1582000" />
+      <workItem from="1595412271868" duration="6709000" />
+      <workItem from="1595552873649" duration="3914000" />
+      <workItem from="1595582597099" duration="110000" />
+      <workItem from="1595642776133" duration="886000" />
+      <workItem from="1595645129136" duration="1701000" />
+      <workItem from="1595899439028" duration="657000" />
+      <workItem from="1595986478341" duration="2778000" />
+      <workItem from="1596156890568" duration="3466000" />
+      <workItem from="1596176466076" duration="3297000" />
+      <workItem from="1596416078531" duration="1447000" />
+      <workItem from="1596512740548" duration="330000" />
+      <workItem from="1596530364709" duration="283000" />
+      <workItem from="1596537974386" duration="2626000" />
+      <workItem from="1596677109780" duration="4761000" />
+      <workItem from="1596848791952" duration="5261000" />
+      <workItem from="1597023640075" duration="4169000" />
+      <workItem from="1597279407669" duration="4533000" />
+      <workItem from="1597365020556" duration="956000" />
+      <workItem from="1597369957850" duration="2937000" />
+      <workItem from="1597627622258" duration="1967000" />
+      <workItem from="1597743930616" duration="2851000" />
+      <workItem from="1597836720057" duration="224000" />
+      <workItem from="1597888461870" duration="4970000" />
+      <workItem from="1597922620209" duration="4767000" />
+      <workItem from="1598226805676" duration="1402000" />
+      <workItem from="1598234293929" duration="3366000" />
+      <workItem from="1598343750784" duration="427000" />
+      <workItem from="1598403967150" duration="6588000" />
+      <workItem from="1598922921935" duration="2173000" />
+      <workItem from="1599041681572" duration="4232000" />
+      <workItem from="1599103755540" duration="5573000" />
+      <workItem from="1599209739286" duration="483000" />
+      <workItem from="1599295703835" duration="415000" />
+      <workItem from="1599444990822" duration="4862000" />
+      <workItem from="1599534497090" duration="7846000" />
+      <workItem from="1599616317301" duration="4029000" />
+      <workItem from="1599735862276" duration="2906000" />
+      <workItem from="1600225696704" duration="2442000" />
+      <workItem from="1600236935461" duration="1973000" />
+      <workItem from="1600252218836" duration="824000" />
+      <workItem from="1600393899973" duration="3695000" />
+      <workItem from="1600653173260" duration="3183000" />
+      <workItem from="1600682166045" duration="4484000" />
+      <workItem from="1600860484550" duration="1471000" />
+      <workItem from="1600926434370" duration="4096000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="190817000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1383" height="877" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3072334" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3299363" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2700637" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="调试" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.20127389" />
+      <window_info anchor="bottom" id="Python Console" order="13" weight="0.3299363" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/MyApp/static/201908059658/css/htmleaf-demo.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-556">
+          <caret line="41" column="1" lean-forward="true" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyApp/static/201908059658/css/normalize.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="581" lean-forward="true" selection-start-column="581" selection-end-column="581" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyApp/static/201908059658/src/jquery-rvnm.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3116">
+          <caret line="158" column="33" lean-forward="true" selection-start-line="158" selection-start-column="33" selection-end-line="158" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyApp/static/201908059658/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="22" column="27" lean-forward="true" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Imxiaozhu/Xz_ApiTest/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="99" column="12" selection-start-line="99" selection-start-column="12" selection-end-line="99" selection-end-column="12" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/dbmake/DBmake/Imapp/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="8" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Imxiaozhu/Xz_ApiTest/views_index.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-455">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/dbmake/DBmake/Imapp/views_index.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="78" column="34" lean-forward="true" selection-start-line="74" selection-start-column="6" selection-end-line="78" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.3/python_stubs/-1199943126/builtins.py" />
+    <entry file="file://$PROJECT_DIR$/MyApp/templates/help.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.7/site-packages/django/contrib/admin/sites.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="537" lean-forward="true" selection-start-line="537" selection-end-line="537" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ApiTest/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="39" column="12" selection-start-line="39" selection-start-column="12" selection-end-line="39" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyApp/static/bootstrap-3.3.7-dist/js/npm.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyApp/static/bootstrap-3.3.7-dist/js/bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyApp/static/bootstrap-3.3.7-dist/js/bootstrap.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyApp/static/bootstrap-3.3.7-dist/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyApp/static/bootstrap-3.3.7-dist/css/bootstrap.css.map">
+      <provider editor-type-id="sourcemapFileViewerProvider" />
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyApp/static/bootstrap-3.3.7-dist/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyApp/static/bootstrap-3.3.7-dist/css/bootstrap-theme.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyApp/static/bootstrap-3.3.7-dist/css/bootstrap.min.css.map">
+      <provider editor-type-id="sourcemapFileViewerProvider" />
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyApp/static/bootstrap-3.3.7-dist/css/bootstrap-theme.css.map">
+      <provider editor-type-id="sourcemapFileViewerProvider" />
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyApp/static/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyApp/templates/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="36" lean-forward="true" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyApp/templates/P_cases.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="30" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyApp/templates/P_project_set.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="36" column="51" selection-start-line="36" selection-start-column="51" selection-end-line="36" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyApp/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyApp/static/201801271505/related/2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyApp/static/201801271505/related/1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyApp/static/201801271505/fonts/icomoon.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyApp/static/201801271505/css/normalize.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyApp/static/201801271505/js/jquery-1.11.0.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyApp/static/201801271505/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="26" column="62" selection-start-line="26" selection-start-column="62" selection-end-line="26" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyApp/static/201801271505/css/htmleaf-demo.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyApp/static/201801271505/js/bootstable.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#style#0;n#button#2;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#3;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Imxiaozhu/Xz_ApiTest/templates/welcome.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="37" lean-forward="true" selection-start-line="5" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyApp/static/z.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyApp/static/login.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyApp/static/bitbug_favicon.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyApp/templates/welcome.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="56" column="32" lean-forward="true" selection-start-line="56" selection-start-column="32" selection-end-line="56" selection-end-column="32" />
+          <folding>
+            <element signature="n#style#0;n#button#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.7/site-packages/django/utils/datastructures.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="77" selection-start-line="77" selection-end-line="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyApp/tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="81" column="38" selection-start-line="81" selection-start-column="38" selection-end-line="81" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyApp/test.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyApp/templates/project_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="21" column="33" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Imxiaozhu/Xz_ApiTest/templates/Project/1_Apis.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="188" column="13" selection-start-line="188" selection-start-column="13" selection-end-line="188" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ApiTest/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="45" column="28" lean-forward="true" selection-start-line="45" selection-start-column="28" selection-end-line="45" selection-end-column="28" />
+          <folding>
+            <element signature="e#641#673#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyApp/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="32" column="14" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyApp/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="286" column="57" lean-forward="true" selection-start-line="286" selection-start-column="57" selection-end-line="286" selection-end-column="57" />
+          <folding>
+            <element signature="e#313#350#0" />
+            <element signature="e#409#1071#0" />
+            <element signature="e#453#515#0" />
+            <element signature="e#559#621#0" />
+            <element signature="e#660#807#0" />
+            <element signature="e#847#928#0" />
+            <element signature="e#974#1055#0" />
+            <element signature="e#1115#1176#0" />
+            <element signature="e#1224#1298#0" />
+            <element signature="e#1333#1368#0" />
+            <element signature="e#1408#1834#0" />
+            <element signature="e#1645#1763#0" />
+            <element signature="e#1782#1834#0" />
+            <element signature="e#1875#2212#0" />
+            <element signature="e#2031#2152#0" />
+            <element signature="e#2246#2345#0" />
+            <element signature="e#2376#2520#0" />
+            <element signature="e#2556#2633#0" />
+            <element signature="e#2675#2760#0" />
+            <element signature="e#2802#2949#0" />
+            <element signature="e#2988#3158#0" />
+            <element signature="e#3200#3307#0" />
+            <element signature="e#3351#3459#0" />
+            <element signature="e#3508#3622#0" />
+            <element signature="e#3671#3922#0" />
+            <element signature="e#3969#4109#0" />
+            <element signature="e#4155#4310#0" />
+            <element signature="e#4345#4539#0" />
+            <element signature="e#4573#4693#0" />
+            <element signature="e#4729#5566#0" />
+            <element signature="e#5058#5186#0" />
+            <element signature="e#5608#5767#0" />
+            <element signature="e#6134#6369#0" />
+            <element signature="e#6388#6554#0" />
+            <element signature="e#7030#7234#0" />
+            <element signature="e#7296#7537#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyApp/templates/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="32" column="137" selection-start-line="32" selection-start-column="124" selection-end-line="32" selection-end-column="137" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyApp/templates/P_apis.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="453">
+          <caret line="605" column="67" lean-forward="true" selection-start-line="605" selection-start-column="67" selection-end-line="605" selection-end-column="67" />
+          <folding>
+            <element signature="n#head#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#head#0;n#html#0;n#!!top" />
+            <element signature="n#nav#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#ul#0;n#div#1;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#table#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#thead#0;n#table#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#tr#0;n#thead#0;n#table#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#for#0;n#!!top" />
+            <element signature="n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#td#3;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#td#3;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="e#2636#2645#0#DjangoTemplate" />
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#script#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="e#3162#3303#0#HTML" />
+            <element signature="e#3191#3230#0#HTML" />
+            <element signature="e#3246#3296#0#HTML" />
+            <element signature="e#3331#3688#0#HTML" />
+            <element signature="e#3432#3467#0#HTML" />
+            <element signature="e#3483#3681#0#HTML" />
+            <element signature="e#3712#4027#0#HTML" />
+            <element signature="e#3858#3928#0#HTML" />
+            <element signature="e#3944#4020#0#HTML" />
+            <element signature="e#4052#4119#0#HTML" />
+            <element signature="e#4134#4143#0#DjangoTemplate" />
+            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#h4#0;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#ul#0;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#li#0;n#ul#0;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#select#0;n#li#0;n#ul#0;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#li#1;n#ul#0;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#li#2;n#ul#0;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#button#0;n#li#2;n#ul#0;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#ul#1;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#li#0;n#ul#1;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#li#1;n#ul#1;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#button#0;n#li#1;n#ul#1;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#ul#2;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#li#0;n#ul#2;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#input#0;n#li#0;n#ul#2;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#li#1;n#ul#2;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#button#0;n#li#1;n#ul#2;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#ul#3;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#li#3;n#ul#3;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#ul#0;n#li#3;n#ul#3;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#1;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#table#0;n#div#0;n#div#1;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#thead#0;n#table#0;n#div#0;n#div#1;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#1;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#tbody#0;n#table#0;n#div#0;n#div#1;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#1;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#2;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#table#0;n#div#0;n#div#2;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#thead#0;n#table#0;n#div#0;n#div#2;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#2;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#tbody#0;n#table#0;n#div#0;n#div#2;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#2;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#3;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#4;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#5;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#6;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#7;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#8;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#script#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="e#11327#12649#0#HTML" />
+            <element signature="e#12492#12546#0#HTML" />
+            <element signature="e#12586#12641#0#HTML" />
+            <element signature="e#12680#16097#0#HTML" />
+            <element signature="e#13094#13130#0#HTML" />
+            <element signature="e#13146#16090#0#HTML" />
+            <element signature="e#13743#13832#0#HTML" />
+            <element signature="e#13880#13975#0#HTML" />
+            <element signature="e#14017#14106#0#HTML" />
+            <element signature="e#14148#14237#0#HTML" />
+            <element signature="e#14278#14366#0#HTML" />
+            <element signature="e#14413#15216#0#HTML" />
+            <element signature="e#14608#15202#0#HTML" />
+            <element signature="e#14784#14806#0#HTML" />
+            <element signature="e#14997#15010#0#HTML" />
+            <element signature="e#15098#15184#0#HTML" />
+            <element signature="e#15275#16080#0#HTML" />
+            <element signature="e#15471#16066#0#HTML" />
+            <element signature="e#15647#15669#0#HTML" />
+            <element signature="e#15860#15873#0#HTML" />
+            <element signature="e#15961#16048#0#HTML" />
+            <element signature="e#16122#16165#0#HTML" />
+            <element signature="e#16189#19621#0#HTML" />
+            <element signature="e#16890#16956#0#HTML" />
+            <element signature="e#16984#17159#0#HTML" />
+            <element signature="e#17002#17055#0#HTML" />
+            <element signature="e#17065#17149#0#HTML" />
+            <element signature="e#17273#17317#0#HTML" />
+            <element signature="e#17359#17919#0#HTML" />
+            <element signature="e#17595#17854#0#HTML" />
+            <element signature="e#17973#18534#0#HTML" />
+            <element signature="e#18210#18469#0#HTML" />
+            <element signature="e#18571#18655#0#HTML" />
+            <element signature="e#18698#18788#0#HTML" />
+            <element signature="e#18825#18910#0#HTML" />
+            <element signature="e#18947#19032#0#HTML" />
+            <element signature="e#19068#19151#0#HTML" />
+            <element signature="e#19261#19547#0#HTML" />
+            <element signature="e#19563#19614#0#HTML" />
+            <element signature="e#19645#23149#0#HTML" />
+            <element signature="e#20294#20360#0#HTML" />
+            <element signature="e#20388#20563#0#HTML" />
+            <element signature="e#20406#20459#0#HTML" />
+            <element signature="e#20469#20553#0#HTML" />
+            <element signature="e#20677#20721#0#HTML" />
+            <element signature="e#20763#21323#0#HTML" />
+            <element signature="e#20999#21258#0#HTML" />
+            <element signature="e#21377#21938#0#HTML" />
+            <element signature="e#21614#21873#0#HTML" />
+            <element signature="e#21975#22059#0#HTML" />
+            <element signature="e#22102#22192#0#HTML" />
+            <element signature="e#22229#22313#0#HTML" />
+            <element signature="e#22350#22434#0#HTML" />
+            <element signature="e#22470#22553#0#HTML" />
+            <element signature="e#22624#22634#0#HTML" />
+            <element signature="e#22682#22968#0#HTML" />
+            <element signature="e#22984#23142#0#HTML" />
+            <element signature="e#23163#23170#0#DjangoTemplate" />
+            <element signature="n#div#3;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#input#0;n#div#3;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#textarea#0;n#div#3;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#input#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#24136#24849#0#HTML" />
+            <element signature="e#24416#25044#0#HTML" />
+            <element signature="e#24488#24937#0#HTML" />
+            <element signature="e#24570#24923#0#HTML" />
+            <element signature="e#24646#24905#0#HTML" />
+            <element signature="e#24941#25034#0#HTML" />
+            <element signature="e#25054#25362#0#HTML" />
+            <element signature="e#25114#25246#0#HTML" />
+            <element signature="e#25297#25337#0#HTML" />
+            <element signature="e#25346#25394#0#HTML" />
+            <element signature="e#25256#25352#0#HTML" />
+            <element signature="e#25399#25441#0#HTML" />
+            <element signature="e#25469#26241#0#HTML" />
+            <element signature="n#div#4;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#script#3;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="Copyright.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
